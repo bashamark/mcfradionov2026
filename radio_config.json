@@ -98,7 +98,7 @@
     "title": "Podcasts"
   },
   "admob": {
-    "enabled": false,
+    "enabled": true,
     "app_id": "ca-app-pub-9523725970329735~5587190670",
     "app_open": {
       "enabled": false,
@@ -109,17 +109,17 @@
       "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
     },
     "radio_adaptive_banner": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-9523725970329735/1582777730"
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-9523725970329735/7705698149"
     },
     "radio_collapsible_banner": {
       "enabled": false,
-      "ad_unit_id": "ca-app-pub-3940256099942544/2014213617",
+      "ad_unit_id": "ca-app-pub-9523725970329735/7705698149",
       "placement": "bottom"
     },
     "exit_native": {
       "enabled": false,
-      "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
+      "ad_unit_id": "ca-app-pub-9523725970329735/7756622859"
     },
     "home_banner": {
       "enabled": false,
