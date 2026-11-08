@@ -118,7 +118,7 @@
       "placement": "bottom"
     },
     "exit_native": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/7756622859"
     },
     "home_banner": {
