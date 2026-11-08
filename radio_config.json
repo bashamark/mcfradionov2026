@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": false
   },
-  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfaugust2026/refs/heads/main/radio_config.json",
+  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradionov2026/refs/heads/main/radio_config.json",
   "streamUrl": "http://51.81.87.44/listen/mcf_radio/radio.mp3",
   "streams": [
     {
